@@ -1,0 +1,42 @@
+[
+ {
+   "KELURAHAN": "Darat Sekip",
+   "Indikator Gaya Hidup": 116,
+   "Indikator Perilaku": 74,
+   "JML RT DIPANTAU": 129,
+   "RT BER-PHBS": 81,
+   "RT Tidak Ber-PHBS": 48
+ },
+ {
+   "KELURAHAN": "Sungai Bangkong",
+   "Indikator Gaya Hidup": 335,
+   "Indikator Perilaku": 230,
+   "JML RT DIPANTAU": 280,
+   "RT BER-PHBS": 238,
+   "RT Tidak Ber-PHBS": 147
+ },
+ {
+   "KELURAHAN": "Sungai Jawi",
+   "Indikator Gaya Hidup": 333,
+   "Indikator Perilaku": 236,
+   "JML RT DIPANTAU": 214,
+   "RT BER-PHBS": 346,
+   "RT Tidak Ber-PHBS": 135
+ },
+ {
+   "KELURAHAN": "Tengah",
+   "Indikator Gaya Hidup": 204,
+   "Indikator Perilaku": 128,
+   "JML RT DIPANTAU": 158,
+   "RT BER-PHBS": 134,
+   "RT Tidak Ber-PHBS": 80
+ },
+ {
+   "KELURAHAN": "Mariana",
+   "Indikator Gaya Hidup": 141,
+   "Indikator Perilaku": 96,
+   "JML RT DIPANTAU": 160,
+   "RT BER-PHBS": 98,
+   "RT Tidak Ber-PHBS": 60
+ }
+]
